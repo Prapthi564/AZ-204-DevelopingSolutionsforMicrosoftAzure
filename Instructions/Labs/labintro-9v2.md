@@ -16,7 +16,7 @@ In the integrated environment, the lab VM serves as the designated workspace, wh
  
 ## **Exploring Your Lab Resources**
  
-To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
+To better understand your lab resources and credentials, navigate to the **Environment** tab.
  
 ![Explore Lab Resources](./media/new-gettingstarted-jan25-2.png)  
  
@@ -44,11 +44,11 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
  
    ![Manage Your Virtual Machine](./media/gext2.png)  
 
-3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
+3. If you have not extended the duration before when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
 
 ## **Lab Guide Zoom In/Zoom Out**
  
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+To adjust the zoom level for the environment page, click the **A↕: 100%** icon located next to the timer in the lab environment.
 
 ![Manage Your Virtual Machine](./media/zoomoutin.png)
 
@@ -70,11 +70,11 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
      ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-portalsignin-2.png?raw=true)
     
-1. First-time users are often prompted to Stay Signed In, if you see any such pop-up, click on No.
+1. First-time users are often prompted to Stay Signed In. If you see any such pop-up, click on No.
    
 1. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
 
-1. If Action required pop-up window appears, click on **Ask later**.
+1. If the Action required pop-up window appears, click on **Ask later**.
 
     ![](./media/asklater-1.png)
 
