@@ -63,37 +63,37 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![Explore Lab Resources](../media/sg2.png)
+![Explore Lab Resources](../media/gaz2041.png)
  
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
  
-![Use the Split Window Feature](../media/sg3.png)
+![Use the Split Window Feature](../media/gaz2042.png)
  
 ## Utilizing the Zoom In/Out Feature
 
 To adjust the zoom level for the environment page, click the A↕ : 100% icon located next to the timer in the lab environment.
 
-![Use the Split Window Feature](./media/sg4.png)
+![Use the Split Window Feature](../media/dpg2.png)
 
 ## Managing Your Virtual Machine
  
-Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
+Feel free to **start, stop, or restart (1)** your virtual machine as needed from the **Resources (2)** tab. Your experience is in your hands!
  
-![Manage Your Virtual Machine](../media/sg5.png)
+![Manage Your Virtual Machine](../media/gaz2043.png)
 
 ## **Lab Duration Extension**
 
 1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment. 
 
-    ![Manage Your Virtual Machine](../Labs/Images/sg6.png)
+    ![Manage Your Virtual Machine](../media/sg6.png)
 
     >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
 
 2. Click **OK** to extend your lab duration.
  
-   ![Manage Your Virtual Machine](../Labs/Images/gext2.png)
+   ![Manage Your Virtual Machine](../media/gext2.png)
 
 3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
 
@@ -101,7 +101,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 1. After completing the task, hit the **Validate** button under the Validation tab integrated into your lab guide. You can proceed to the next task if you receive a success message. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 
-   ![Inline Validation](images/gdev5.png)
+   ![Inline Validation](../media/gdev5.png)
 
 1. If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com.
 
@@ -110,25 +110,25 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 1. On your virtual machine, click on the **Azure Portal** icon as shown below:
 
-   ![Launch Azure Portal](images/afg6.png)
+   ![Launch Azure Portal](../media/afg6.png)
    
 1. You will see the **Sign in to the Microsoft Azure** tab. Here, enter your credentials:
  
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
  
-       ![Enter Your Username](images/afg7.png)
+       ![Enter Your Username](../media/afg7.png)
  
 1. Next, provide your password:
  
    - **Password:** <inject key="AzureAdUserPassword"></inject>
  
-       ![Enter Your Password](images/afg8.png)
+       ![Enter Your Password](../media/afg8.png)
 
 1. If you see the pop-up **Stay Signed in?**, click **No**.       
 
 1. If an **Action required** pop-up window appears, click on **Ask later**.
 
-   ![Ask Later](images/afg9.png)
+   ![Ask Later](../media/afg9.png)
     
 1. If prompted to stay signed in, you can click **No**.
  
@@ -138,13 +138,13 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 1. If **Action required** pop-up window appears, click on **Next**.
    
-   ![](images/dpg11.png)
+   ![](../media/dpg11.png)
 
 1. On **Start by getting the app** page, click on **Next**.
 1. Click on **Next** twice.
 1. In **android**, go to the play store and Search for **Microsoft Authenticator** and Tap on **Install**.
 
-   ![Install](images/dpg12.png)
+   ![](../media/dpg12.png)
 
    > Note: For Ios, Open the app store and repeat the steps.
 
@@ -154,13 +154,13 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 1. Scan the QR code visible on the screen **(1)** and click on **Next (2)**.
 
-   ![QR code](images/dpg13.png)
+   ![](../media/dpg13.png)
 
 1. Enter the digit displayed on the Screen in the Authenticator app on mobile and tap on **Yes**.
 
 1. Once the notification is approved, click on **Next**.
 
-   ![Approved](images/dpg14.png)
+   ![](../media/dpg14.png)
 
 1. Click on **Done**.
 
@@ -185,7 +185,7 @@ Learner Support Contacts:
 
 Click on **Next** from the lower right corner to move on to the next page.
 
-   ![Start Your Azure Journey](../Images/dpn2.png)
+   ![Start Your Azure Journey](../media/gaz2044.png)
 
 ## Happy Learning !!   
 
