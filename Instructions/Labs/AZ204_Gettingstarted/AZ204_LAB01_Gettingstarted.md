@@ -2,7 +2,7 @@
 
 Welcome to your AZ-204-: Developing Solutions for Microsoft Azure Workshop! We've prepared a seamless environment for you to explore and learn Azure Services. Let's begin by making the most of this experience.
 
-# Lab 01: Build a web application on Azure platform as a service offering
+## Lab 01: Build a web application on Azure platform as a service offering
 
 ### Overall Estimated timing: 60 minutes
 
@@ -96,56 +96,83 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
    ![Manage Your Virtual Machine](../Labs/Images/gext2.png)
 
 3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
- 
+
+ ### Lab Validation
+
+1. After completing the task, hit the **Validate** button under the Validation tab integrated into your lab guide. You can proceed to the next task if you receive a success message. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+
+   ![Inline Validation](images/gdev5.png)
+
+1. If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com.
+
+
 ## Let's Get Started with Azure Portal
- 
-1. On your virtual machine, click on the Azure Portal icon as shown below:
- 
-    ![Launch Azure Portal](../Labs/Images/azure.png)
- 
-2. You'll see the **Sign into Microsoft Azure** tab. Here, enter your credentials:
+
+1. On your virtual machine, click on the **Azure Portal** icon as shown below:
+
+   ![Launch Azure Portal](images/afg6.png)
+   
+1. You will see the **Sign in to the Microsoft Azure** tab. Here, enter your credentials:
  
    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
  
-      ![](../Labs/Images/image7.png)
+       ![Enter Your Username](images/afg7.png)
  
-3. Next, provide your password:
+1. Next, provide your password:
  
    - **Password:** <inject key="AzureAdUserPassword"></inject>
  
-      ![](../Labs/Images/image8.png)
+       ![Enter Your Password](images/afg8.png)
 
-1. If you see the pop-up **Action Required**, click **Ask Later**.
+1. If you see the pop-up **Stay Signed in?**, click **No**.       
+
+1. If an **Action required** pop-up window appears, click on **Ask later**.
+
+   ![Ask Later](images/afg9.png)
+    
+1. If prompted to stay signed in, you can click **No**.
+ 
+### Steps to Proceed with MFA Setup if the "Ask Later" Option is Not Visible
+
+1. If you see the pop-up **Stay Signed in?**, click **No**.
+
+1. If **Action required** pop-up window appears, click on **Next**.
    
-     ![](../Labs/Images/asklater.png)
+   ![](images/dpg11.png)
 
-## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
+1. On **Start by getting the app** page, click on **Next**.
+1. Click on **Next** twice.
+1. In **android**, go to the play store and Search for **Microsoft Authenticator** and Tap on **Install**.
 
-1. At the **"More information required"** prompt, select **Next**.
+   ![Install](images/dpg12.png)
 
-1. On the **"Keep your account secure"** page, select **Next** twice.
+   > Note: For Ios, Open the app store and repeat the steps.
 
-1. **Note:** If you don’t have the Microsoft Authenticator app installed on your mobile device:
+   > Note: Skip if already installed.
 
-   - Open **Google Play Store** (Android) or **App Store** (iOS).
-   - Search for **Microsoft Authenticator** and tap **Install**.
-   - Open the **Microsoft Authenticator** app, select **Add account**, then choose **Work or school account**.
+1. Open the app and tap on **Scan a QR code**.
 
-1. A **QR code** will be displayed on your computer screen.
+1. Scan the QR code visible on the screen **(1)** and click on **Next (2)**.
 
-1. In the Authenticator app, select **Scan a QR code** and scan the code displayed on your screen.
+   ![QR code](images/dpg13.png)
 
-1. After scanning, click **Next** to proceed.
+1. Enter the digit displayed on the Screen in the Authenticator app on mobile and tap on **Yes**.
 
-1. On your phone, enter the number shown on your computer screen in the Authenticator app and select **Next**.
-       
-1. If prompted to stay signed in, you can click "No."
- 
-1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
+1. Once the notification is approved, click on **Next**.
 
-1. Click **Next** from the bottom right corner to embark on your Lab journey!
- 
-    ![Start Your Azure Journey](../media/num.png)
+   ![Approved](images/dpg14.png)
+
+1. Click on **Done**.
+
+1. If prompted to stay signed in, you can click **"No"**.
+
+1. Tap on **Finish** in the Mobile Device.
+
+   > NOTE: While logging in again, enter the digits displayed on the screen in the **Authenticator app** and click on Yes.
+
+1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **"Cancel"** to skip the tour.
+
+1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
 ## Support Contact
  
