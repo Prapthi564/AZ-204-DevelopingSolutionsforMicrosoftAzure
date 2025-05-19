@@ -39,11 +39,11 @@ In this hands-on lab, the architecture flow includes several essential component
 
 ## Explanation of Components
 
-1. Azure App Service: Azure App Service is a fully managed Platform as a Service (PaaS) offering from Microsoft that enables developers to build, deploy, and scale web apps and APIs quickly. It supports multiple programming languages and frameworks, including .NET, Java, Node.js, and Python, and integrates easily with other Azure services.
+1. **Azure App Service**: It is a fully managed Platform as a Service (PaaS) offering from Microsoft that enables developers to build, deploy, and scale web apps and APIs quickly. It supports multiple programming languages and frameworks, including .NET, Java, Node.js, and Python, and integrates easily with other Azure services.
 
-1. Azure Web Apps: Azure Web Apps is a feature within Azure App Service that provides a scalable hosting environment for web applications. It allows developers to deploy web apps using various deployment methods and manage them through the Azure portal, CLI, or DevOps pipelines.
+1. **Azure Web Apps**: It is a feature within Azure App Service that provides a scalable hosting environment for web applications. It allows developers to deploy web apps using various deployment methods and manage them through the Azure portal, CLI, or DevOps pipelines.
 
-1. Azure Storage: Azure Storage is Microsoft’s cloud storage solution for modern data storage scenarios. It offers scalable, durable, and secure storage for a variety of data types including blobs, files, queues, and tables. In this lab, it is used to support backend functionality for the deployed API.
+1. **Azure Storage**: It is Microsoft’s cloud storage solution for modern data storage scenarios. It offers scalable, durable, and secure storage for a variety of data types including blobs, files, queues, and tables. In this lab, it is used to support backend functionality for the deployed API.
 
 # Getting Started with the Lab
  
@@ -53,7 +53,7 @@ Welcome to your AZ-204-: Developing Solutions for Microsoft Azure workshop! We'v
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
-![Access Your VM and Lab Guide](../media/sg1.png)
+![Access Your VM and Lab Guide](../media/gaz2045.png)
 
 ### Virtual Machine & Lab Guide
  
@@ -79,7 +79,7 @@ To adjust the zoom level for the environment page, click the A↕ : 100% icon lo
 
 ## Managing Your Virtual Machine
  
-Feel free to **start, stop, or restart (1)** your virtual machine as needed from the **Resources (2)** tab. Your experience is in your hands!
+Feel free to **Start, Stop, or Restart (1)** your virtual machine as needed from the **Resources (2)** tab. Your experience is in your hands!
  
 ![Manage Your Virtual Machine](../media/gaz2043.png)
 
