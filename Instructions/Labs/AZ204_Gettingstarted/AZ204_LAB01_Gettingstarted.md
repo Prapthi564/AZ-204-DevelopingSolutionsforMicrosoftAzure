@@ -35,6 +35,8 @@ In this hands-on lab, the architecture flow includes several essential component
 
 ## Architecture Diagram
 
+![Architecture diagram depicting a user building a web application on Azure platform as a service offering.](../media/Lab01-Diagram1.png)
+
 ## Explanation of Components
 
 
